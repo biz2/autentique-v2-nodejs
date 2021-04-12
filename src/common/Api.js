@@ -1,6 +1,5 @@
 'use strict'
 import axios from 'axios'
-import { AUTENTIQUE_TOKEN } from 'babel-dotenv' 
 
 require('dotenv').config()
 
